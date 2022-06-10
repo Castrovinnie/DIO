@@ -1,5 +1,9 @@
 body{
     background-color: rgb(247, 247, 247);
+    font-family: Verdana, Tahoma, sans-serif;
+    max-width: 900px;
+    margin: auto;
+    max
 }
 
 .me{
@@ -11,6 +15,15 @@ border: 1px solid rgb(201, 201, 201) ;
 color: rgb(68, 68, 68);
 }
 
+#titulo{
+    font-size: 40px;
+    text-transform:uppercase ;
+}
+
+a{
+    text-decoration: line-through;
+    color: rgb(68, 68, 68);
+}
 .post_titulo{
     font-size: 16px;
     font-style: italic;
@@ -30,8 +43,21 @@ color: rgb(68, 68, 68);
 .post_conteudo{
     margin: 0;
     margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: center
 
 }
 .post_imagem{
     margin-bottom: 15px;
+    width: 100%;
+}
+
+.lista_contatos{
+    list-style-type: none;
+    padding-left: 15px
+    
+}
+
+.lista_contatos li a{
+    text-decoration: none;
 }
