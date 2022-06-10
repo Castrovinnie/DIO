@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(247, 247, 247);
+}
+
+.me{
+border-radius: 50px;
+border: 1px solid rgb(201, 201, 201) ;
+}
+
+#titulo, .subtitulo, .post_titulo{
+color: rgb(68, 68, 68);
+}
+
+.post_titulo{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background-color: white;
+    padding: 15px;
+    border: 3px solid rgb(134, 134, 134);
+    /* border-top: 2px dotted blue; */
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.post_conteudo{
+    margin: 0;
+    margin-bottom: 15px;
+
+}
+.post_imagem{
+    margin-bottom: 15px;
+}

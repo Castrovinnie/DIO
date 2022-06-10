@@ -1,0 +1,19 @@
+Algoritmos é uma sequancia de passos para resolver um problema
+
+Inicio-dia
+	acordei
+	levanei da cama
+	troquei de roupas 
+	escovei os dentes
+	fui a padaria
+	tomei cafe
+	escovei os dentes 
+	fui ao trabalho
+	...	
+fim-dia
+
+logica e algoritmo gameficado
+https://studio.code.org/s/mc/stage/1/puzzle/1
+
+
+
